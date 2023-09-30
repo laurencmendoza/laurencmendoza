@@ -26,6 +26,9 @@
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lauren-c-mendoza/)
 
+---
+
+#### Credits to [joekgilberto](https://github.com/joekgilberto) on GitHub for the README.md inspiration!
 <!--
 **laurencmendoza/laurencmendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
